@@ -237,14 +237,14 @@ interface DexPairsResponse {
 }
 ```
 
-## Get Pair Stats Summary
+## Get Dex Summary
 
 Retrieve aggregated statistics across all pairs.
 
 ### Request
 
 ```http
-GET /pair-stats/summary HTTP/1.1
+GET /dex/summary HTTP/1.1
 Host: **.dexpal.ai
 Authorization: Bearer <access_token>
 ```
