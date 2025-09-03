@@ -14,4 +14,4 @@ The DexPal API uses REST endpoints with JSON responses and requires Bearer token
   - [DEX Points Balance](/routes/dex-points-balance.md)
   - [Pair Stats](/routes/pair-stats.md)
   - [DEX Summary](/routes/dex-summary.md)
-
+  - [DEX Stats](/routes/dex-stats.md)
